@@ -1,14 +1,14 @@
 {
   "name": "movies-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Practica de node.js con express",
   "main": "index.js",
   "scripts": {
     "dev": "DEBUG=app:* nodemon index",
     "start": "NODE_ENV=production node index"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["javascript", "node", "express.js"],
+  "author": "Alfonso Rognoni",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
